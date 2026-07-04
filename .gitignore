@@ -1,0 +1,11 @@
+*.class
+
+.idea/
+
+out/
+
+bin/
+
+*.log
+
+.DS_Store

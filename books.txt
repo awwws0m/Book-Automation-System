@@ -1,0 +1,8 @@
+978-003|Computer Networks|Forouzan|McGraw Hill|Chennai India|550.0|0|B1|5|5|14
+978-004|Operating Systems|Galvin|Wiley India|Bangalore India|600.0|3|B2|1|5|7
+978-005|DBMS|Navathe|Pearson India|Hyderabad India|480.0|0|C1|9|5|10
+978-006|Digital Electronics|Morris Mano|PHI Learning|Pune India|395.0|14|C2|0|5|7
+978-007|Engineering Mathematics|H K Dass|S Chand|New Delhi India|520.0|4|D1|3|5|14
+978-008|Object Oriented Programming|E Balaguruswamy|McGraw Hill|Chennai India|450.0|0|D2|6|5|10
+978-009|Computer Organization|Carl Hamacher|McGraw Hill|Mumbai India|575.0|9|E1|0|5|7
+978-010|Artificial Intelligence|Russell Norvig|Pearson India|Bangalore India|650.0|2|E2|4|5|14
